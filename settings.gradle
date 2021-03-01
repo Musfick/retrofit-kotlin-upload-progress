@@ -1,0 +1,3 @@
+include ':RequestBodyWithProgress'
+include ':app'
+rootProject.name = "Retrofit upload progress"
